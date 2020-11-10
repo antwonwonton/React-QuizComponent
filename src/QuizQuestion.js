@@ -1,4 +1,4 @@
-import import Reaxt, { Component } from 'react'
+import React, { Component } from 'react'
 
 class QuizQuestion extends Component {
   render() {
